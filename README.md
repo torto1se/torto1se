@@ -7,7 +7,7 @@ Front-end developer
 ![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/typescript-090909.svg?style=for-the-badge&logo=typescript)
 ![Vue](https://img.shields.io/badge/Vue-090909?style=for-the-badge&logo=vuedotjs)
-![Nuxtjs](https://img.shields.io/badge/Nuxt-090909?style=for-the-badge&logo=nuxtdotjs)
+![Nuxtjs](https://img.shields.io/badge/Nuxt-090909?style=for-the-badge&logo=nuxt)
 ![Vite](https://img.shields.io/badge/vite-090909.svg?style=for-the-badge&logo=vite)
 ![React](https://img.shields.io/badge/React-090909?style=for-the-badge&logo=react)
 ![TAILWIND CSS](https://img.shields.io/badge/TAILWIND%20CSS-090909?style=for-the-badge&logo=tailwindcss)
