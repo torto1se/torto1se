@@ -10,7 +10,7 @@ Front-end developer
 ![Nuxtjs](https://img.shields.io/badge/Nuxt-090909?style=for-the-badge&logo=nuxtdotjs)
 ![Vite](https://img.shields.io/badge/vite-090909.svg?style=for-the-badge&logo=vite)
 ![React](https://img.shields.io/badge/React-090909?style=for-the-badge&logo=react)
-![TAILWIND CSS](https://img.shields.io/badge/TAILWIND%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss)
+![TAILWIND CSS](https://img.shields.io/badge/TAILWIND%20CSS?style=for-the-badge&logo=tailwindcss)
 ![Docker](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=docker)
 
 ## Links
