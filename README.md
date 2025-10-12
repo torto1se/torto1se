@@ -18,5 +18,4 @@ Front-end developer
 
 ## Links
 
-[![Vk](https://img.shields.io/badge/Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7D83)](https://vk.com/torto1se)
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=4F7D83)](https://t.me/torto1se)
