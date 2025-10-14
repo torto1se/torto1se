@@ -10,6 +10,7 @@ Front-end developer
 ![Nuxtjs](https://img.shields.io/badge/Nuxt-090909?style=for-the-badge&logo=nuxt)
 ![Vite](https://img.shields.io/badge/vite-090909.svg?style=for-the-badge&logo=vite)
 ![React](https://img.shields.io/badge/React-090909?style=for-the-badge&logo=react)
+![Nextjs](https://img.shields.io/badge/next.js-090909?style=for-the-badge&logo=nextdotjs)
 ![PINIA](https://img.shields.io/badge/PINIA-090909?style=for-the-badge&logo=pinia)
 ![TAILWIND CSS](https://img.shields.io/badge/TAILWIND%20CSS-090909?style=for-the-badge&logo=tailwindcss)
 ![GIT](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=git)
